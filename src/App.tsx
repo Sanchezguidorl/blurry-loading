@@ -1,4 +1,4 @@
-import img1 from "./assets/img-bg.jpg";
+import img1 from "./assets/img-bg.webp";
 import "./App.css";
 import { useEffect, useState } from "react";
 
